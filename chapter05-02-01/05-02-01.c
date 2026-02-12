@@ -8,5 +8,5 @@ int Sum(int value1, int value2) {
 void main() {
 	int s;
 	s = Sum(2, 3);
-	printf("더하기 작업의 결과는 %d", s);
+	printf("더하기 작업의 결과는 %d \n", s);
 }
