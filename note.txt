@@ -34,4 +34,4 @@ Object File 목적 파일 :
 #include <stdio.h>의 stdio.h도 헤더 파일임.
 
 #include옆에 " "이거는 사용자가 만든 헤더 파일이라고 생각하고, < >이거는 vs가 제공하는 헤더파일이라고 생각하기 때문에 stdio.h는 가능하면 < >이걸 쓰는게 좋음.
->>>>>>> 14727b66af63b89b720c0ae39bdbbbd92e6b7505
+
